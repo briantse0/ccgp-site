@@ -1,6 +1,6 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
-baseURL = "https://rtcharity.github.io/ccgp-site/"
+baseURL = "https://briantse0.github.io/ccgp-site/"
 
 DefaultContentLanguage = "en"
 
@@ -11,13 +11,13 @@ DefaultContentLanguage = "en"
 [languages.en]
 languageCode = "en"
 title = "China Center for Global Priorities"
-author = "Your name"
+author = "Brian Tse"
 description = "Cool description"
 
 [languages.zh]
-languageCode = "zh"
-title = "CHINESE China Center for Global Priorities"
-author = "CHINESE Your name"
+languageCode = "ch"
+title = "全球优先议题中国研究中心"
+author = "谢旻希"
 description = "CHINESE Cool description"
 
 # Hero section (from here on is for icon theme)
@@ -28,8 +28,8 @@ description = "China Center for Global Priorities is a private think tank dedica
 
 [languages.zh.hero]
 img = "images/hero_bg.jpg"
-title = "CHINESE China Center for Global Priorities"
-description = "CHINESE China Center for Global Priorities is a private think tank dedicated to make progress on the most pressing global problems. The Center aims to coordinate between Chinese and international organisations to reduce global catastrophic risks (in particular risks from advanced artificial intelligence and engineered pathogens), inform global priorities research and improve farm animal welfare as our key priorities."
+title = "全球优先议题中国研究中心"
+description = "China Center for Global Priorities is a private think tank dedicated to make progress on the most pressing global problems. The Center aims to coordinate between Chinese and international organisations to reduce global catastrophic risks (in particular risks from advanced artificial intelligence and engineered pathogens), inform global priorities research and improve farm animal welfare as our key priorities."
 
 # Navigation section
 [params.nav]
