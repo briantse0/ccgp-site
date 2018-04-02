@@ -22,12 +22,12 @@ description = "CHINESE Cool description"
 
 # Hero section (from here on is for icon theme)
 [languages.en.hero]
-img = "statics/Xiongan.png"
+img = "static/Xiongan.png"
 title = "China Center for Global Priorities"
 description = "China Center for Global Priorities"
 
 [languages.zh.hero]
-img = "statics/Xiongan.png"
+img = "static/Xiongan.png"
 title = "全球优先议题中国研究中心"
 description = "全球优先议题中国研究中心"
 
