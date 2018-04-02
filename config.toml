@@ -34,8 +34,7 @@ description = "China Center for Global Priorities is a private think tank dedica
 # Navigation section
 [params.nav]
   mission = "Our Mission"
-  services = "Projects"
-  team = "The Team"
+  services = "Our Priorities"
   contact = "Get In Touch"
   # Include logo instead if HOME:
   # logo = "path/to/logo"
@@ -43,57 +42,29 @@ description = "China Center for Global Priorities is a private think tank dedica
 # Services section
 [params.services]
   enable = true
-  title = "Our Projects"
-  description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+  title = "Our Priorities"
+  description = ""
 
   [[params.services.item]]
     icon = "icon-present"
-    title = "AI Safety Field Building"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    title = "Potential risks from advanced artificial intellignece"
+    description = ""
 
   [[params.services.item]]
     icon = "icon-eye"
-    title = "Farm Animal Welfare Strategy"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    title = "Global catastrophic biological risks"
+    description = ""
 
   [[params.services.item]]
     icon = "icon-paper-plane"
-    title = "Career Coaching"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
-
-# Team section
-[params.team]
-  enable = true
-  title = "Meet The Team"
-  Description = ""
-
-  [[params.team.item]]
-    name = "Brian Tse"
-    position = "Director and Founder"
-    description = "Brian runs the China Center for Global Priorities. As part of his recent work, Brian researched issues in international cooperation and global governance in artificial intelligence at the University of Oxford’s Future of Humanity Institute, consulted the Open Philanthropy Project on their multi-million-dollar grants on farm animal welfare in China and co-authored a China specialist careers guide with 80,000 Hours."
-    img = "static/Visual Career Capital.jpg"
-    facebook = "#"
-    twitter = "#"
-    dribbble = "#"
-    instagram = "#"
-    github = "#"
-
-  # [[params.team.item]]
-  #   name = "Jason Doe"
-  #   position = "Chief haranguer"
-  #   description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
-  #   img = "images/person3.jpg"
-  #   facebook = "#"
-  #   twitter = "#"
-  #   dribbble = "#"
-  #   instagram = "#"
-  #   github = "#"
+    title = "Farm animal welfare"
+    description = ""
 
 # Contact section
 [params.contact]
   enable = true
   title = "Get In Touch"
-  message = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+  message = ""
 
 # Footer section
 # Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
