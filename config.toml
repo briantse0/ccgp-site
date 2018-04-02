@@ -24,7 +24,7 @@ description = "CHINESE Cool description"
 [languages.en.hero]
 img = "static/Xiongan.png"
 title = "China Center for Global Priorities"
-description = "China Center for Global Priorities"
+description = "Engaging China to tackle the world's most pressing problems"
 
 [languages.zh.hero]
 img = "static/Xiongan.png"
@@ -67,17 +67,17 @@ description = "全球优先议题中国研究中心"
   description = ""
 
   [[params.services.item]]
-    icon = "icon-present"
+    icon = "static/OpenAI.png"
     title = ""
     description = ""
 
   [[params.services.item]]
-    icon = "icon-eye"
+    icon = "static/OPP.png"
     title = ""
     description = ""
 
   [[params.services.item]]
-    icon = "icon-paper-plane"
+    img = "static/80k.png"
     title = ""
     description = ""
 
