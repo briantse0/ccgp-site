@@ -65,6 +65,7 @@ description = "China Center for Global Priorities is a private think tank dedica
 [params.team]
   enable = true
   title = "Meet The Team"
+  Description = ""
 
   [[params.team.item]]
     name = "Brian Tse"
