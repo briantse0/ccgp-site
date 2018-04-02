@@ -22,14 +22,14 @@ description = "CHINESE Cool description"
 
 # Hero section (from here on is for icon theme)
 [languages.en.hero]
-img = "images/hero_bg.jpg"
+img = "statics/Xiongan.png"
 title = "China Center for Global Priorities"
-description = "China Center for Global Priorities is a private think tank dedicated to make progress on the most pressing global problems. The Center aims to coordinate between Chinese and international organisations to reduce global catastrophic risks (in particular risks from advanced artificial intelligence and engineered pathogens), inform global priorities research and improve farm animal welfare as our key priorities."
+description = "China Center for Global Priorities"
 
 [languages.zh.hero]
-img = "images/hero_bg.jpg"
+img = "statics/Xiongan.png"
 title = "全球优先议题中国研究中心"
-description = "China Center for Global Priorities is a private think tank dedicated to make progress on the most pressing global problems. The Center aims to coordinate between Chinese and international organisations to reduce global catastrophic risks (in particular risks from advanced artificial intelligence and engineered pathogens), inform global priorities research and improve farm animal welfare as our key priorities."
+description = "全球优先议题中国研究中心"
 
 # Navigation section
 [params.nav]
