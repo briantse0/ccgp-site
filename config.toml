@@ -39,7 +39,7 @@ description = "全球优先议题中国研究中心"
   # Include logo instead if HOME:
   # logo = "path/to/logo"
 
-# Services section
+# Our Priorities section
 [params.services]
   enable = true
   title = "Our Priorities"
@@ -58,6 +58,27 @@ description = "全球优先议题中国研究中心"
   [[params.services.item]]
     icon = "icon-paper-plane"
     title = "Farm animal welfare"
+    description = ""
+    
+# Our partners section
+[params.services]
+  enable = true
+  title = "Our Partners"
+  description = ""
+
+  [[params.services.item]]
+    icon = "icon-present"
+    title = ""
+    description = ""
+
+  [[params.services.item]]
+    icon = "icon-eye"
+    title = ""
+    description = ""
+
+  [[params.services.item]]
+    icon = "icon-paper-plane"
+    title = ""
     description = ""
 
 # Contact section
